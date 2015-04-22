@@ -1,1 +1,1 @@
-# docker-hdfs-datanode
+# docker-hdfs
